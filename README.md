@@ -1,6 +1,6 @@
 # Assembler-Linker-Emulator
 
-Chain of tools(assembler, linker, emulator) written in C++, Flex and Bison for compiling and executing assembly code.
+Toolchain(assembler, linker, emulator) written in C++, Flex and Bison for compiling and executing assembly code.
 Project on the System Software course, School of Electrical Engineering, Belgrade.
 
 * Two-pass assembler
