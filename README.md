@@ -6,8 +6,8 @@ Project on the System Software course, School of Electrical Engineering, Belgrad
 * Two-pass assembler
 * GNU like assembly language
 * Addressing(immediate, memory, register, pc relative)
-* assembler directives
-* assembler instructions: 
+* Assembler directives
+* Assembler instructions: 
 
 ![assembler instructions](/images/assembler-instructions.png)
 
